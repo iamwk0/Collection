@@ -12,7 +12,7 @@ public class MAP {
 		hm.put("khalil",101);
 		hm.put("wajahat",101); //duplicate key not allowed
 		hm.put(303,303);
-	   System.out.println(hm);//elements will be in unorderd ......
+	   System.out.println(hm);//elements will be in unorderd ...w..
 
 	   System.out.println("LinkedHashMap");
 	   LinkedHashMap lm = new LinkedHashMap();
